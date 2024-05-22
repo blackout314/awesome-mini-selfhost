@@ -6,3 +6,4 @@ awesome mini application for selfhost stuff
 * [mini image hoster](https://github.com/blackout314/mini-images-hoster)
 * [mini ssh pastebin](https://github.com/blackout314/tinysprunge.us)
 * [mini db admin - adminer](https://www.adminer.org/)
+* [imf](https://github.com/misterunknown/ifm) improved file manager
